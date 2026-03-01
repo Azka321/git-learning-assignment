@@ -1,0 +1,7 @@
+ git init → Initialize repository
+ git add → Stage files
+ git commit → Save changes
+ git push → Upload to GitHub
+ git pull → Download changes
+ git branch → Create branch
+ git merge → Merge branches
